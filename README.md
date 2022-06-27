@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning vue and react
 - 💞️ I’m looking to collaborate on u
-- 📫 Reach me at maleficenttt@163.com 
+- 📫 Reach me at bella_yeh@163.com 
 
 <!---
 bellayeh7/bellayeh7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
