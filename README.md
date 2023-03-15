@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @bellayeh7
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning vue and react
+- ✨ Here is my personal notes https://github.com/bellayeh7/bellayeh7.github.io
 - 💞️ I’m looking to collaborate on u
 - 📫 Reach me at bella_yeh@163.com 
 
